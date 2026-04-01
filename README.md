@@ -47,12 +47,12 @@ To solve the lack of direct sales data, we developed a logic to derive Sales Vol
 
 ☑ The Core Hypothesis
 The relationship was modeled as a weighted sum of current and lagged comment activities:
-$$V_{April} = w_1C_1 + w_2C_2 + w_3C_3$$
+V_april = w1*C1 + w2*C2 + w3*C3
 Where $w_n$ represents the conversion ratio of users who purchased in month $n$ but commented in April.
 
 ☑ Formula Optimization & Simplification
 Through continuous derivation and assumption testing, I simplified the complex multi-lag model into a more robust Dual-Variable Model:
-$$V_{April} = \alpha_1C_1 + \alpha_2C_2$$
+V_april = alpha1*C1 + alpha2*C2
 Testing proved that this Formula (B) significantly outperformed simpler single-variable models by capturing the "lagged" nature of consumer feedback while maintaining model stability.
 
 ☑ Dynamic Parameter Search
