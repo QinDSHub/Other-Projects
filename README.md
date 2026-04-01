@@ -1,4 +1,30 @@
-📂 Project Overview (Demand Forecasting for Rémy Products on JD Marketplace)
+## Notes on Project Materials
+
+The PPTs included in these two projects were originally created for presentations at the time and have been preserved since then.  
+While they may now appear somewhat preliminary, they capture a valuable process focused on underlying technical design and system thinking.
+
+They provide a full-picture view of the end-to-end modeling workflow, including:
+- Problem definition  
+- Data exploration  
+- Data cleaning  
+- Model architecture design  
+- Model development  
+- Model offline evaluation  
+
+These materials may be particularly helpful for anyone seeking a deeper understanding of the complete modeling pipeline and the technical reasoning behind it. You can also gain a solid overview by reviewing the README sections below for each project.
+
+---
+
+For a complete overview of my projects, feel free to visit my LinkedIn:  
+https://www.linkedin.com/in/qinluu  
+
+I’m always happy to connect, share, and discuss.
+
+---
+
+## Demand Forecasting for Rémy Products on JD Marketplace
+
+📂 Project Overview
 
 This project was initiated as a high-stakes feasibility study for a VIP client in the luxury spirits sector (Rémy Cointreau). The objective was to infer monthly sales volumes on the JD.com platform using unstructured consumer comment metadata as a proxy.
 Despite significant data constraints and high noise levels, this "impossible task" resulted in a mathematical framework that the client successfully adopted to inform their marketing strategies and inventory management with R2 score at 0.86.
@@ -56,7 +82,9 @@ ________________________________________
 
 ________________________________________
 
-📂 Project Objective (Hybrid Forecasting System for Next Vehicle Service Date & Odometer)
+## Hybrid Forecasting System for Next Vehicle Service Date & Odometer
+
+📂 Project Objective
 
 The goal of this project is to predict the next service visit date and odometer reading for the entire customer base. By limiting the prediction deviation to within 30 days, the system empowers the business department to execute high-precision, data-driven marketing and personalized parts recommendations.
 
