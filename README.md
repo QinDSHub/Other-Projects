@@ -1,6 +1,6 @@
 ## Notes on Project Materials
 
-The PPTs included in these two projects were originally created for presentations at the time and have been preserved since then.  
+The PDFs included in these two projects were originally created for presentations at the time and have been preserved since then.  
 While they may now appear somewhat preliminary, they capture a valuable process focused on underlying technical design and system thinking.
 
 They provide a full-picture view of the end-to-end modeling workflow, including:
