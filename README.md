@@ -13,10 +13,8 @@ They provide a full-picture view of the end-to-end modeling workflow, including:
 
 These materials may be particularly helpful for anyone seeking a deeper understanding of the complete modeling pipeline and the technical reasoning behind it. You can also gain a solid overview by reviewing the README sections below for each project.
 
----
-
 For a complete overview of my projects, feel free to visit my LinkedIn:  
-https://www.linkedin.com/in/qinluu  
+### https://www.linkedin.com/in/qinluu  
 
 I’m always happy to connect, share, and discuss.
 
